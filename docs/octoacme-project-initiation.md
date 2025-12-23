@@ -28,6 +28,17 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Project Manager:
+  - Product Manager:
+  - Technical Lead:
+  - Scrum Master (if agile):
+  - Developers (count/names):
+  - QA Lead:
+  - UX Designer (if applicable):
+  - Business Analyst (if applicable):
+  - Stakeholder Champion:
+
+See [Roles and Personas](octoacme-roles-and-personas.md) for detailed role descriptions.
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
@@ -41,3 +52,7 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+---
+
+**Process Improvement**: Role clarity enhanced per [Issue #4](https://github.com/cenTimo13/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4).
