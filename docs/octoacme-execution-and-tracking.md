@@ -37,9 +37,9 @@ Clear escalation paths ensure blockers are resolved quickly:
 
 - **Level 1: Team-level triage** in daily standup (Scrum Master facilitates)
   - Technical blockers → Technical Lead
-  - Requirements clarity → Business Analyst or Product Manager
+  - Requirements clarity → Business Analyst (for business requirements) or Product Manager (for product features)
   - Resource/capacity → Scrum Master and PM
-- **Level 2: Cross-team escalation** (PM escalates to Product Lead and dependent teams)
+- **Level 2: Cross-team escalation** (PM escalates to Product Manager (PdM) and dependent teams)
   - Organizational impediments → PM with Scrum Master
   - Stakeholder decisions → Stakeholder Champion
 - **Level 3: Executive escalation** for business-impacting issues (PM to Sponsor)

@@ -291,9 +291,22 @@ Stakeholder Champions serve as the main point of contact for stakeholder groups,
 The OctoAcme team structure emphasizes collaboration across roles:
 
 - **Core Delivery Team**: Developers, Technical Lead, Scrum Master, QA Lead, UX Designer
-- **Product & Strategy**: Product Manager, Business Analyst
-- **Coordination & Communication**: Project Manager, Stakeholder Champion
-- **Cross-functional Ceremonies**: Sprint planning (all delivery team), stakeholder reviews (PM, PdM, Stakeholder Champion), technical reviews (Technical Lead, Developers, QA Lead)
+  - Daily collaboration on feature development and quality
+  - Participates in sprint planning, standups, and demos
+  
+- **Product & Strategy**: Product Manager (PdM), Business Analyst
+  - Define what to build and why
+  - Prioritize backlog and validate business value
+  
+- **Coordination & Communication**: Project Manager (PM), Stakeholder Champion
+  - Coordinate delivery, manage risks, and facilitate stakeholder engagement
+  - Maintain communication plans and status reporting
+  
+- **Cross-functional Ceremonies**:
+  - Sprint planning: Core Delivery Team + PM + PdM
+  - Stakeholder reviews: PM + PdM + Stakeholder Champion + Technical Lead
+  - Technical design reviews: Technical Lead + Developers + QA Lead + UX Designer
+  - Retrospectives: Core Delivery Team + PM + PdM (facilitated by Scrum Master)
 
 For detailed handoff and escalation paths, see [Risk Management & Communication](octoacme-risks-and-communication.md).
 

@@ -54,19 +54,19 @@ Incident Communication
 Clear escalation paths with role accountability:
 
 ### Technical Escalation
-- Developer → Technical Lead → PM → Product Lead → Sponsor
+- Developer → Technical Lead → PM → Product Manager (PdM) → Sponsor
 
 ### Quality/Release Escalation
-- QA Lead → Technical Lead → PM → Product Lead → Sponsor
+- QA Lead → Technical Lead → PM → Product Manager (PdM) → Sponsor
 
 ### Requirements/Scope Escalation
-- Developer/Designer → Business Analyst → Product Manager → PM → Sponsor
+- Developer/Designer → Business Analyst → Product Manager (PdM) → PM → Sponsor
 
 ### Organizational/Blockers Escalation
-- Team member → Scrum Master → PM → Product Lead → Sponsor
+- Team member → Scrum Master → PM → Product Manager (PdM) → Sponsor
 
 ### Stakeholder Concerns
-- Stakeholder Champion → PM → Product Manager → Sponsor
+- Stakeholder Champion → PM → Product Manager (PdM) → Sponsor
 
 ### Security Incidents
 - For security incidents, follow the security incident runbook and notify Security on-call
