@@ -117,9 +117,9 @@ Effective communication is essential to OctoAcme's project success. We use struc
 
 ### Regular Cadences
 
-- **Daily Standups** (15 min): Focus on progress, blockers, and dependencies
+- **Daily Standups** (typically 15 min): Focus on progress, blockers, and dependencies
 - **Weekly PM + PdM Sync**: Align on priorities, risks, and decisions
-- **Twice-Weekly Team Standups**: Coordinate delivery activities (or as agreed)
+- **Delivery Team Standups**: Twice-weekly or as agreed by the team to coordinate delivery activities
 - **Sprint Demos/Reviews**: Demonstrate progress at end of each sprint or milestone
 - **Monthly Stakeholder Updates**: Share progress, upcoming milestones, and key decisions
 
@@ -145,7 +145,9 @@ Effective communication is essential to OctoAcme's project success. We use struc
 
 ### Single Source of Truth
 
-All project documentation is maintained in the project repository, with key artifacts in `docs/` or `.copilot/` folders for easy access and Copilot Spaces context.
+All project documentation is maintained in the project repository:
+- Use `docs/` for general project documentation and process guides
+- Use `.copilot/` for context-specific artifacts to enhance Copilot Spaces recommendations
 
 ## Process Documentation
 
